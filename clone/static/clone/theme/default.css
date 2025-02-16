@@ -1,0 +1,10 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: Arial, sans-serif;
+}
+a {
+  color: #1F509A;
+  text-decoration: none;
+  list-style: none;
+}
